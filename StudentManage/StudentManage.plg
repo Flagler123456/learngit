@@ -6,6 +6,21 @@
 --------------------Configuration: StudentManage - Win32 Debug--------------------
 </h3>
 <h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/StudentManage.res" /d "_DEBUG" /d "_AFXDLL" "E:\git\learngit\StudentManage\StudentManage.rc"" 
+Creating temporary file "C:\Users\Administrator\AppData\Local\Temp\RSPF9C7.tmp" with contents
+[
+ORACLM32.LIB /nologo /subsystem:windows /incremental:yes /pdb:"Debug/StudentManage.pdb" /debug /machine:I386 /out:"Debug/StudentManage.exe" /pdbtype:sept 
+.\Debug\AdoRecordset.obj
+.\Debug\OperatorDB.obj
+.\Debug\StdAfx.obj
+.\Debug\StudentManage.obj
+.\Debug\StudentManageDlg.obj
+.\Debug\StudentManage.res
+]
+Creating command line "link.exe @C:\Users\Administrator\AppData\Local\Temp\RSPF9C7.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
 
 
 
